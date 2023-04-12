@@ -8,6 +8,6 @@ package thsanpham;
  *
  * @author DINH CHAU
  */
-class SanPham {
+public class DanhSachSanPham {
     
 }
